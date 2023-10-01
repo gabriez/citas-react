@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
-import Errors from "./errors";
+import Errors from "./Errors";
+
 
 
 const Form = ({setPacientes, patient, pacientes, setPatient}) => {
